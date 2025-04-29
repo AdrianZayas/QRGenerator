@@ -1,4 +1,4 @@
-# GENERADOR QR 🇲🇽
+# GENERADOR QR
 Este programa permite generar códigos QR a partir de un documento CSV. Además, también puede generar códigos QR a partir de texto sin necesidad de cargar un archivo.
 
 ## CONSIDERACIONES 📋
